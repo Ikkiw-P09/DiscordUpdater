@@ -4,7 +4,7 @@ Discord Updater for Linux (Debian/Ubuntu)
 #How to install
 
 using this command :
-```yml
+```bash
 curl
 ```
 
